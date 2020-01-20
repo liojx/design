@@ -17,4 +17,8 @@ public class JingTaiEHan {
 	public static JingTaiEHan getInstance(){
 		return  jingTaiEHan;
 	}
+
+	public static void main(String[] args) {
+
+	}
 }
