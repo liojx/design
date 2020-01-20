@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0af80ba-7bbf-4a08-b1bf-79ad62b77536" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,22 +27,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="java" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="gitignore" value="7" />
           <entry key="java" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="122" />
+          <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
     </session>
@@ -58,11 +63,20 @@
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src.main.java/createMode/singleton/EHan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
+            <state relative-caret-position="168">
               <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -83,6 +97,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src.main.java/createMode/singleton/EHan.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -117,7 +132,9 @@
     <option name="width" value="1945" />
     <option name="height" value="1045" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -132,36 +149,6 @@
             <path>
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src.main.java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src.main.java" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioralMode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src.main.java" type="462c0819:PsiDirectoryNode" />
-              <item name="createMode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src.main.java" type="462c0819:PsiDirectoryNode" />
-              <item name="createMode" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src.main.java" type="462c0819:PsiDirectoryNode" />
-              <item name="structureMode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -223,17 +210,18 @@
       <workItem from="1574776563012" duration="2447000" />
       <workItem from="1574816918281" duration="6000" />
       <workItem from="1579498566686" duration="1724000" />
-      <workItem from="1579500360911" duration="2248000" />
+      <workItem from="1579500360911" duration="3223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6425000" />
+    <option name="totallyTimeSpent" value="7400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1476" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26022568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26022568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -248,7 +236,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5637584" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.46577182" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Statistic" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -284,8 +272,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src.main.java/createMode/singleton/EHan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="168">
           <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
