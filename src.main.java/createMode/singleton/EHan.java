@@ -1,6 +1,7 @@
 package createMode.singleton;
 
 /**
+ * 静态饿汉
  * @Author: liaosijun
  * @Time: 2020/1/20 13:38
  */
